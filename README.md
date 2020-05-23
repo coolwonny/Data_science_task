@@ -1,2 +1,2 @@
-# Data_science_task
+# Data Science Exercise
 Pandas Data Science Task - a part of exercise.
